@@ -17,11 +17,11 @@ English, Français, Русский, Deutsch, Español (ES + LATAM), 中文, 日�
 
 The mod uses your SPT language automatically. English is the fallback.
 
-> Translations are AI-made and not reviewed by native speakers. Spotted a mistake? Open an issue, corrections are welcome.
+> Translations may contain mistakes. Spotted one? Open an issue, corrections are welcome.
 
-## 📦 Requirements
+## 📦 Compatibility
 - SPT 4.1.x
-- [acidphantasm-reffriendlyquests](https://forge.sp-tarkov.com)
+- [acidphantasm-reffriendlyquests](https://forge.sp-tarkov.com) is **not required**, but the two mods work very well together.
 
 ## 🔧 Installation
 Copy the `SPT_Runtime` folder into your SPT folder (it merges with the existing one):
@@ -39,6 +39,17 @@ Back up your profile first (`SPT/user/profiles/<your_id>.json`). Once a quest is
 ### 1.5.0
 - Quest texts translated into 15 more languages, all in one package.
 - No gameplay change.
+
+### 1.4.0
+- 44 new quests (Customs, Woods, Shoreline, Reserve, Lighthouse, Streets of Tarkov, special orders).
+- First quest now available from level 10.
+- Rouble rewards on the original quests halved.
+
+## 🐞 Feedback
+Found a bug or a translation mistake? Open an issue.
+
+## 📄 License
+MIT - by PraED_TV
 
 ### 1.4.0
 - 44 new quests (Customs, Woods, Shoreline, Reserve, Lighthouse, Streets of Tarkov, special orders).
