@@ -1,4 +1,4 @@
-# 🎯 BETA  Ref Extra Quests 1.4.0
+# 🎯 Ref Extra Quests 1.4.0
 
 **68 extra quests for Ref (the Arena trader) in SPT 4.1.x.** A long, level-gated quest line from level 10 to 50, with English and French texts.
 
